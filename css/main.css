@@ -1,0 +1,65 @@
+body{
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+}
+
+
+h1{
+    font-weight: bold;
+    color: red;
+    font-family: serif;
+}
+
+h2{
+    color: rgb(255, 84, 16);
+    font-style: oblique;
+    font-weight: 900;
+}
+
+p{
+    color: rgb(168, 18, 18);
+}
+ol{ 
+    color: maroon;
+    line-height: 50px;
+}
+
+
+#strike{
+    text-decoration: line-through;
+
+}
+
+#high{
+
+    background-color: yellow;
+    font-weight: bold;
+}
+
+
+ul{
+    color: maroon;
+    letter-spacing: 5px;
+}
+
+#logoimg{
+    border: 3px solid blue;
+    border-radius: 20px;
+    box-shadow: 10px 12px 15px   black;
+}
+
+button{
+    border: 3px solid blue;
+    width: 125px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: oblique;
+    cursor: inherit;
+}
+
+button:hover{
+    background-color: rgb(195, 141, 245);
+}
